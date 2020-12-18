@@ -1,6 +1,7 @@
 # Contributors
 
 - [MathProuv](https://github.com/mathprouv)
+-[HrithkTiwari](https://github.com/Hrithik333)
 - [nagarajalva5790](https://github.com/nagarajalva5790/)
 - [CodyArnholt](https://github.com/TromboneMoose)
 - [NaufilShaikh](https://github.com/naufil09)
